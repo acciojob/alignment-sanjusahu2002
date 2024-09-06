@@ -2,6 +2,9 @@
 .center-allign{
 	text-align:center;
 }
+table{
+	borde:1px solid black;
+}
 
 .middle{
     width:80%;
